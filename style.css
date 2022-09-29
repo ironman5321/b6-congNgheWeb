@@ -1,0 +1,116 @@
+body {
+  margin: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: blue;
+}
+
+.header img {
+  width: 100%;
+  height: auto;
+}
+
+.navbar {
+  display: flex;
+}
+
+.navbar-item {
+  margin: 10px 24px;
+}
+
+#title {
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+
+.group-btn-chance {
+  display: flex;
+  justify-content: center;
+}
+
+#btn {
+  margin: 4px 8px;
+}
+
+.big-title {
+  text-align: center;
+  font-size: x-large;
+  font-weight: 700;
+  margin: 12px 0;
+}
+
+.rows {
+  display: flex;
+}
+
+.content-item {
+  width: 25%;
+  margin: 32px;
+}
+
+.img-item img {
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+  margin: 10px;
+}
+
+.post-event {
+  width: 33.33333333%;
+  margin: 32px;
+  border: 1px solid rgb(195, 194, 194);
+}
+
+.title-post {
+  text-align: center;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.group-btn {
+  display: flex;
+  justify-content: space-around;
+}
+
+.group-btn {
+  font-size: small;
+  padding: 10px;
+}
+
+.btn-left a {
+  color: gray;
+}
+
+.btn-right a {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.footer {
+  display: flex;
+  padding: 10px;
+  background-color: #f1f5f7;
+}
+
+.footer-item {
+  width: 33.333333%;
+  font-style: italic;
+}
+
+.footer-item-title {
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.detail {
+  font-size: small;
+}
